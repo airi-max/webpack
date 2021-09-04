@@ -42,5 +42,5 @@ module.exports = {
     new VueLoaderPlugin(),
   ],
   // ES5(IE11等)向けの指定
-  target: ["web", "es5"],
+  // target: ["web", "es5"],
 };
